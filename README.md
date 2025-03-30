@@ -1,4 +1,6 @@
-![Logo of "Bundeswettbewerb Informatik"](./images/bwinf-logo.png)
+<p align="center">
+    <img src="./images/bwinf-logo.png" alt="Logo of Bundeswettbewerb Informatik">
+</p>
 
 # Solutions for the first round of the 43. Bundeswettbewerb Informatik 2025
 
