@@ -1,0 +1,3 @@
+Labyrinthe werden gelöst - dies kann, abhängig von deren Größe, dauern und viel Arbeitsspeicher beanspruchen.
+Optimaler Pfad konnte ermittelt werden (31 Schritte). Lösung:
+→ → → → ↓ ↓ ← ↑ ← ↓ ← ↑ ← ↓ ↓ → ↑ → ↓ → ↑ ↑ ← ← ↑ → → → ↓ ↓ ↓

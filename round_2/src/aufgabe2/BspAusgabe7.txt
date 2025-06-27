@@ -1,0 +1,2 @@
+Labyrinthe werden gelöst - dies kann, abhängig von deren Größe, dauern und viel Arbeitsspeicher beanspruchen.
+Labyrinthpaar nicht lösbar.

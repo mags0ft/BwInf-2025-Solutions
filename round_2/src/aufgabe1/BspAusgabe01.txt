@@ -1,0 +1,3 @@
+│ "K" = aaad │ "R" = aaac │ "M" = aaab │ "ß" = aaaa │ "H" = aaae │ "N" = baab │ "W" = baaa │ "…" = baae │ "B" = baad │ "ä" = baac │ "G" = bace │ "O" = bacd │ "V" = bacc │ "ö" = bacb │ "z" = baca │ "F" = aab │ "f" = aac │ "S" = aad │ "v" = aae │ "I" = aca │ "p" = acc │ "ü" = acb │ "w" = ace │ "D" = acd │ "b" = bab │ "E" = bad │ "," = bae │ "d" = dad │ "k" = dac │ "." = dab │ "u" = daa │ "m" = dae │ "o" = ab │ "g" = ad │ "c" = ae │ "h" = bb │ "l" = be │ "a" = bd │ "t" = bc │ "s" = db │ "i" = dc │ "r" = de │ "n" = dd │ "e" = c │ " " = e │
+Textlänge: 566 · Encodete Länge: 1150 Perlen · Gesamtkosten (∑): 1150mm
+Überprüfung nach Präfixdopplungen beendet - Code ist präfixfrei!

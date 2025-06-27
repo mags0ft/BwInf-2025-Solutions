@@ -1,0 +1,3 @@
+│ "d" = abac │ "e" = abab │ "f" = abc │ "g" = abaa │ "h" = abb │ " " = ac │ "a" = c │ "b" = aa │ "c" = b │
+Textlänge: 110 · Encodete Länge: 160 Perlen · Gesamtkosten (∑): 279mm
+Überprüfung nach Präfixdopplungen beendet - Code ist präfixfrei!

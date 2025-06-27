@@ -1,0 +1,3 @@
+│ "古" = ccc │ "英" = ccb │ "雄" = cbc │ "未" = bcc │ "遇" = aabc │ "時" = abac │ "都" = acc │ "無" = acab │ "大" = cca │ "志" = cbb │ "非" = cac │ "止" = bcb │ "鄧" = bbc │ "禹" = aabb │ "希" = aaac │ "學" = abab │ "、" = abc │ "武" = acb │ "望" = acaa │ "督" = cba │ "郵" = cab │ "也" = bca │ "晉" = bbb │ "公" = bac │ "妻" = aac │ "不" = aaba │ "肯" = aaab │ "去" = abaa │ "齊" = abb │ "文" = caa │ "馬" = bba │ "。" = bab │ "有" = aaaa │ "，" = baa │
+Textlänge: 40 · Encodete Länge: 132 Perlen · Gesamtkosten (∑): 237mm
+Überprüfung nach Präfixdopplungen beendet - Code ist präfixfrei!
