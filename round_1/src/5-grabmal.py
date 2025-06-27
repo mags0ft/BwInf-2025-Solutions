@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-Lösungen für die Aufgabe 2 ("Ägyptisches Grabmal") des 43. Bundeswettbewerbs Informatik.
+Lösungen für die Aufgabe 5 ("Ägyptisches Grabmal") des 43. Bundeswettbewerbs Informatik.
 """
 
 import os
