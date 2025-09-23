@@ -4,7 +4,7 @@
 
 # Solutions for the first round of the 43. Bundeswettbewerb Informatik 2025
 
-This folder contains the solutions to the tasks of round 1 in the [43. Bundeswettbewerb Informatik](https://bwinf.de/bundeswettbewerb/43/).
+This folder contains the solutions to the tasks of round 1 in the [43. Bundeswettbewerb Informatik](https://bwinf.de/bundeswettbewerb/43/). Round 1 was a team competition where I participated in collaboration with another team member, while round 2 was done alone.
 
 You can find the solutions for tasks 1, 2, 3 and 5 in the `src` folder.
 

@@ -8,7 +8,7 @@ This repository contains the solutions to the tasks of the [43. Bundeswettbewerb
 
 **Please note that, as this is a German competition, comments inside of the code and the docs are in German as well.**
 
-You can find the solutions for the respective rounds of the competition in the [`round_1`](https://github.com/mags0ft/BwInf-2025-Solutions/tree/main/round_1) and [`round_2`](https://github.com/mags0ft/BwInf-2025-Solutions/tree/main/round_2) folders.
+You can find the solutions for the respective rounds of the competition in the [`round_1`](./round_1) and [`round_2`](./round_2) folders.
 
 ## Further info
 
