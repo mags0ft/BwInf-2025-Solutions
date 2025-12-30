@@ -122,8 +122,8 @@ def dec(n: int) -> CoordPair:
 def clamp(num: int, min_: int, max_: int):
     """
     Beschränkt eine Zahl auf einen festgelegten Bereich; sollte die Zahl
-    darüber sein, wird diese auf das festgelegte Minimum limitiert - sollte sie
-    darüber sein, auf das Maximum.
+    darunter sein, wird diese auf das festgelegte Minimum limitiert - sollte
+    sie darüber sein, auf das Maximum.
     """
 
     return min_ if num < min_ else (max_ if num > max_ else num)
